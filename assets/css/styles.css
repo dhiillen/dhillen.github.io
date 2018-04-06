@@ -1,0 +1,44 @@
+body {
+  font-family: 'Press Start 2P', cursive;
+  color: #FAFAFA;
+  background: #212121;
+  font-size: 11px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 20px;
+}
+a {
+	text-decoration: none;
+}
+
+p {
+	line-height: 5px;
+}
+
+div {
+	border: 5px solid #FAFAFA;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+#left-column {
+	float: left;
+}
+
+#right-column {
+	margin: 1 ;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	float: left;
+	border-left: 0px;
+	width: 450px;
+	height: 80px;
+}
+
+#time{
+	font-size: 50px;
+	float: center;
+	padding-top: 6px;
+}
